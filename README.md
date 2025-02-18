@@ -1,1 +1,3 @@
 # zoomer
+
+A screen magnifier
